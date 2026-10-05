@@ -26,7 +26,7 @@ A collection of **Mathematics lesson designs, lesson plans, worksheets, and lear
 ## 👤 About
 
 **Unsi Rathod**  
+M.Sc. Mathematics | Mathematics SME 
 unsirathodt5@gmail.com 
-M.Sc. Mathematics | Mathematics SME | Instructional Design
 
 This repository demonstrates my ability to transform mathematical concepts into **structured, learner-focused learning experiences**.
