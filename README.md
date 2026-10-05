@@ -21,7 +21,7 @@ Each topic has three documents that work together:
 
 ## Topics
 
-| Topic | Grade / Level | Key concepts | Files |
+| Topic | Grade / Level | Key concepts | 
 |---|---|---|---|
 | A Square and a Cube | Grade 8 | [e.g. squares, cubes, patterns] 
 | Proportional Reasoning - 2 | Grade 8 | [e.g. ratios, proportion, unitary method] 
@@ -33,7 +33,7 @@ Each topic has three documents that work together:
 - Build understanding step by step, moving from concrete to abstract
 - Include questions at different difficulty levels
 - Check for understanding throughout, not only at the end
-- 
+  
 ## Notes
 
 - All materials are my own work. [Edit if any part is adapted from another source.]
