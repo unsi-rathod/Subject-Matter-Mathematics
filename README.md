@@ -1,44 +1,68 @@
-# Subject-Matter-Mathematics
+# Subject Matter Mathematics: Lesson Plans and Curriculum Designs
 
-Detailed lesson plans, lesson designs, and worksheets for K-12 mathematics, built by a Math Subject Matter Expert with 7+ years of classroom, assessment-design, and curriculum experience.
+A portfolio of mathematics lesson designs, lesson plans and worksheets created by **Unsi Rathod**.
 
-## About
+## About me
 
-I'm Unsi Rathod, an M.Sc. Mathematics graduate and Math SME with a background in assessment design, error/misconception analysis, and curriculum development across secondary and higher-secondary math. This repository collects worked examples of how I break a topic down into a full instructional sequence — from lesson design through to student-facing worksheet.
+- MSc in Mathematics and B.Ed
+- 6 years of teaching experience
+- Interested in mathematics content development, subject matter expert (SME) work and instructional design
+- Contact: unsirathod5@gmail.com | 
 
-I'm currently focused on bringing AI tools into this process: using LLMs to stress-test explanations, generate scaffolded practice sequences, and surface misconceptions faster than manual review alone. This repo will keep expanding with that work.
+## What's in this repository
 
-## What's in this repo
+Each topic has three documents that work together:
 
-Each topic includes three linked documents:
-
-| File type | Purpose |
+| Document | Purpose |
 |---|---|
-| **Lesson Design** | The pedagogical reasoning behind the lesson — learning objectives, sequencing logic, anticipated misconceptions, and how the topic connects to prior/future concepts. |
-| **Lesson Plan** | The classroom-ready walkthrough — timing, instructional steps, checks for understanding, and differentiation notes. |
-| **Worksheet** | Student-facing practice, sequenced from guided to independent, designed to surface (and correct) the specific misconceptions identified in the Lesson Design. |
+| **Lesson Design** | The big picture: learning objectives, concepts, flow of the lesson and activities |
+| **Lesson Plan** | Step-by-step teaching plan with timings, questions to ask and checks for understanding |
+| **Worksheet** | Practice questions for students, with a mix of basic, application and thinking problems |
 
-### Topics covered
+## Topics
 
-- **A Square and a Cube** — geometric reasoning and spatial visualization
-- **Proportional Reasoning** — ratio, scaling, and multiplicative thinking
-- **Tales by Dots and Lines** — foundational coordinate geometry / graphing concepts
+| Topic | Grade / Level | Key concepts | Files |
+|---|---|---|---|
+| A Square and a Cube | [Grade] | [e.g. squares, cubes, patterns] | [Design](#) / [Plan](#) / [Worksheet](#) |
+| Proportional Reasoning - 2 | [Grade] | [e.g. ratios, proportion, unitary method] | [Design](#) / [Plan](#) / [Worksheet](#) |
+| Tales by Dots and Lines | [Grade] | [e.g. points, lines, geometry basics] | [Design](#) / [Plan](#) / [Worksheet](#) |
 
-## Design philosophy
+*Replace each `#` with the link to the PDF or document in the folder.*
 
-Every lesson in this repo is built around three principles:
+## Sample learning objectives
 
-1. **Misconception-first design** — each lesson starts from the specific error patterns students actually make on this topic, not just the "correct" explanation path.
-2. **Mastery before progression** — sequencing assumes a student should demonstrate solid understanding of a sub-skill before the next layer is introduced, rather than moving purely by calendar pace.
-3. **Scaffolded practice** — worksheets move deliberately from heavily guided examples to independent problem-solving, reducing cognitive load early and releasing it gradually.
+*Add 2 or 3 objectives for one topic so a reader sees your approach at a glance.*
 
-## Roadmap
+- Students will be able to [objective 1]
+- Students will be able to [objective 2]
 
-- [ ] Add a worked case study showing an AI-assisted redesign of one lesson (before/after, with the prompting approach used)
-- [ ] Add more topics across Algebra, Geometry, and Statistics
-- [ ] Add a short misconception-analysis writeup per topic, showing the data/reasoning behind each design choice
+## How I design lessons
 
-## Contact
+*Write 3 or 4 short points about your approach, for example:*
 
-Unsi Rathod
-📧 unsirathod5@gmail.com
+- Start from a real-life or visual hook before introducing the formal idea
+- Build understanding step by step, moving from concrete to abstract
+- Include questions at different difficulty levels
+- Check for understanding throughout, not only at the end
+
+## Suggested folder structure
+
+```
+/A-Square-and-A-Cube
+    Lesson-Design.pdf
+    Lesson-Plan.pdf
+    Worksheet.pdf
+/Proportional-Reasoning-2
+    Lesson-Design.pdf
+    Lesson-Plan.pdf
+    Worksheet.pdf
+/Tales-by-Dots-and-Lines
+    Lesson-Design.pdf
+    Lesson-Plan.pdf
+    Worksheet.pdf
+```
+
+## Notes
+
+- All materials are my own work. [Edit if any part is adapted from another source.]
+- Feedback is welcome. Please contact me using the details above.
