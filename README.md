@@ -22,7 +22,7 @@ Each topic has three documents that work together:
 ## Topics
 
 | Topic | Grade / Level | Key concepts | 
-|---|---|---|---|
+|---|---|---|
 | A Square and a Cube | Grade 8 | [e.g. squares, cubes, patterns] 
 | Proportional Reasoning - 2 | Grade 8 | [e.g. ratios, proportion, unitary method] 
 | Tales by Dots and Lines | Grade 8 | [e.g. points, lines, geometry basics] 
