@@ -23,36 +23,17 @@ Each topic has three documents that work together:
 
 | Topic | Grade / Level | Key concepts | Files |
 |---|---|---|---|
-| A Square and a Cube | Grade 8 | [e.g. squares, cubes, patterns] | [Design](#) / [Plan](#) / [Worksheet](#) |
-| Proportional Reasoning - 2 | Grade 8 | [e.g. ratios, proportion, unitary method] | [Design](#) / [Plan](#) / [Worksheet](#) |
-| Tales by Dots and Lines | Grade 8 | [e.g. points, lines, geometry basics] | [Design](#) / [Plan](#) / [Worksheet](#) |
+| A Square and a Cube | Grade 8 | [e.g. squares, cubes, patterns] 
+| Proportional Reasoning - 2 | Grade 8 | [e.g. ratios, proportion, unitary method] 
+| Tales by Dots and Lines | Grade 8 | [e.g. points, lines, geometry basics] 
 
 ## How I design lessons
-
-*Write 3 or 4 short points about your approach, for example:*
 
 - Start from a real-life or visual hook before introducing the formal idea
 - Build understanding step by step, moving from concrete to abstract
 - Include questions at different difficulty levels
 - Check for understanding throughout, not only at the end
-
-## Suggested folder structure
-
-```
-/A-Square-and-A-Cube
-    Lesson-Design.pdf
-    Lesson-Plan.pdf
-    Worksheet.pdf
-/Proportional-Reasoning-2
-    Lesson-Design.pdf
-    Lesson-Plan.pdf
-    Worksheet.pdf
-/Tales-by-Dots-and-Lines
-    Lesson-Design.pdf
-    Lesson-Plan.pdf
-    Worksheet.pdf
-```
-
+- 
 ## Notes
 
 - All materials are my own work. [Edit if any part is adapted from another source.]
